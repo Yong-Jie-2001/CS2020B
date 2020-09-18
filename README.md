@@ -1,6 +1,6 @@
 # 109學年上學期資訊科技概論
 
-### 教科書
+### 教科書 1
 ```
 計算機概論 (Campbell: Technology for Success: Computer Concepts)
 Jennifer T. Campbell , Mark Ciampa, Barbara Clemens, Steven M. Freund, 
@@ -27,6 +27,7 @@ Module 9 網頁程式設計
 Module10 網路功能
 Module11 數位通訊
 ```
+### 教科書 2
 ```
 超圖解 Python 程式設計入門
 趙英傑
