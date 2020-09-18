@@ -42,3 +42,22 @@ https://www.tenlong.com.tw/products/9789863125952?list_name=srh
 ```
 https://github.com/MyFirstSecurity2020/20200820/tree/master/Python
 ```
+
+# 本學期IPAS資安證照班
+```
+崑山傳統:大一入學三個月  讓你考上專業資安證照
+
+即將公布 上課時間與地點
+免費上課 ....................
+
+iPAS經濟部產業人才能力鑑定推動網
+https://www.ipas.org.tw/
+
+資訊安全工程師
+https://www.ipas.org.tw/ISE/AbilityDescPage.aspx
+
+109年第二次初級資訊安全工程師能力鑑定
+考試日期 : 2020/11/28 ~ 2020/11/28
+報名日期 : 2020/07/01 ~ 2020/10/20
+考試項目 :1.資訊安全管理概論 2.資訊安全技術概論
+```
