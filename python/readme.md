@@ -4,6 +4,8 @@
 趙英傑    旗標科技
 ISBN:9863125954
 ISBN-13:9789863125952
+
+https://www.tenlong.com.tw/products/9789863125952?list_name=srh
 ```
 ```
 第 1 章 認識 Python 程式語言
