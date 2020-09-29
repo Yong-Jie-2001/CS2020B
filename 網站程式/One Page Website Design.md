@@ -5,5 +5,6 @@ https://www.intechnic.com/blog/60-beautiful-examples-of-one-page-website-design-
 ```
 
 ```
-
+22 Single Page Websites For Your Inspiration
+https://www.dtelepathy.com/blog/inspiration/22-fresh-single-page-website-for-your-inspiration
 ```
