@@ -5,6 +5,11 @@ Stanley B. Lippman等 黃銘偉
 碁峰資訊
 ISBN:9865021722
 ISBN-13:9789865021726
+
+https://www.tenlong.com.tw/products/9789865021726?list_name=srh
+```
+```
+習題解答:   https://github.com/pezy/CppPrimer
 ```
 
 ```
