@@ -31,7 +31,7 @@ document.write("型態: " + y.dtype + "<br/>");
 </script>
 </body>
 </html>
-
+```
 ## 程式架構
 ```
 <!DOCTYPE html>
