@@ -7,6 +7,12 @@ ISBN-13:9789863125952
 
 https://www.tenlong.com.tw/products/9789863125952?list_name=srh
 ```
+
+```
+https://github.com/MyFirstSecurity2020/20200820/tree/master/Python
+
+```
+
 ```
 第 1 章 認識 Python 程式語言
 1-1 認識程式語言
