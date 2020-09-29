@@ -7,7 +7,29 @@ http://127.0.0.1/tf/Ch14_5_4a.html
 
 notepad++
 ```
-
+# 參考書
+```
+跨裝置網頁設計 -- HTML5、CSS3、JavaScript、jQuery、Bootstrap, 4/e
+陳惠貞
+碁峰資訊
+2018-11-26
+ISBN:9864769502
+ISBN-13:9789864769506
+```
+```
+PHP 7 & MySQL 網站開發 -- 超威範例集, 3/e
+陳惠貞/陳俊榮
+碁峰資訊
+ISBN:9865024187
+ISBN-13:978986502418
+```
+```
+最潮 HTML5 + CSS3 網頁版型設計 Standard Layout‧Grid Layout‧Single Page Layout
+吉田真麻 著、李保宜、楊瑩瑩譯
+旗標科技
+ISBN:9863123730
+ISBN-13:9789863123736
+```
 ## tf_js_1.html 原始程式
 ```
 <!DOCTYPE html>
