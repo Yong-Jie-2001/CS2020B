@@ -24,7 +24,7 @@ list3 = list(["red", "green", "blue"])
 list4 = list(range(3, 6))
 list5 = list("abcd") 
 ```
-"""
+```
 
 list1 = list() 
 list1
@@ -35,7 +35,8 @@ list3
 list4 = list(range(3, 6))
 list4
 
-"""## List的各種運算(1)
+```
+## List的各種運算(1)
 
 下列範例會產生何種結果
 ```
@@ -46,12 +47,13 @@ max(list1)
 min(list1)
 sum(list1)
 ```
-"""
+```
 
 list1 = [21, 33, 14, 12, 32,98]
 len(list1)
 
-"""## List的各種運算(2)串列的加法|乘法運算
+```
+## List的各種運算(2)串列的加法|乘法運算
 
 ```
 下列範例會產生何種結果
@@ -63,17 +65,14 @@ list3 = list1 + list2
 list3
 list4 = 3 * list1
 list4
-
-
 ```
 
 ##  List的各種運算(3)切片運算(Slice)
-"""
-
+```
 list5 = list3[2:4]
 list5
-
-"""## list的還有各種函數:
+```
+## list的還有各種函數:
 ```
 加一元素到串列的尾端:append()
 回傳元素x 出現於串列的次數:count()
@@ -84,13 +83,14 @@ list5
 ```
 
 ## list的超強大功能:序列拆解
-"""
+```
 
 a=[12,212,321,325]
 x,y,z,k = a
 z
 
-"""## List comprehension 列表推導式: list的超強大功能
+```
+## List comprehension 列表推導式: list的超強大功能
 ```
 A list comprehension consists of brackets containing an expression followed by a for clause, 
 then zero or more for or if clauses. 
@@ -99,7 +99,7 @@ in the context of the for and if clauses which follow it.
 
 https://en.wikipedia.org/wiki/List_comprehension
 ```
-"""
+```
 
 list1 = [x for x in range(0,5)] 
 list1
@@ -110,7 +110,7 @@ list2
 list3 = [x for x in list2 if x <= 1.5]
 list3
 
-"""
+```
 
 ### List comprehension列表推導式的應用
 
@@ -121,8 +121,9 @@ list3
 
 到底需要多少粒米呢
 ```
-"""
+```
 
 sum([2**i for i in range(5)])
 
 sum([2**i for i in range(64)])
+```
