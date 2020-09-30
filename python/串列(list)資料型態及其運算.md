@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 # 列表|串列(list)資料型態及其運算
 
@@ -12,6 +12,8 @@ https://www.w3schools.com/python/python_arrays.asp
 
 ## 建立list
 ```
+# -*- coding: utf-8 -*-
+
 list1 = list() 
 list1 = [] 
 
