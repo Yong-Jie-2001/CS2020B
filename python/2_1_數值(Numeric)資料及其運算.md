@@ -1,3 +1,8 @@
+# 學習目標
+```
+數值(Numeric)資料及其運算
+數值(Numeric)資料各種內建函數()
+```
 # 數值(Numeric)資料及其運算
 ```
 Python 支持三種不同的數值型別(Data Type)：
