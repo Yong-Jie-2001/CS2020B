@@ -1,4 +1,12 @@
-#
+# 使用Google Colab學習Python與人工智慧
+```
+使用Google Colab平台學習Python程式設計
+使用Google Colab平台學習Python資料分析技術
+使用Google Colab平台學習機器學習(machine Learning)
+使用Google Colab平台學習深度學習(deep Learning)
+使用Google Colab平台學習強化學習(reinforcement Learning)
+```
+# 課程內容
 ```
 [1]Python開發環境:Google Colab
 Google Colab的Python開發環境暨使用技術
@@ -18,14 +26,7 @@ Google Colab的Python開發環境暨使用技術
 [10]載入你的google drive 到colab
 
 ```
-### 使用Google Colab學習Python與人工智慧
-```
-使用Google Colab平台學習Python程式設計
-使用Google Colab平台學習Python資料分析技術
-使用Google Colab平台學習機器學習(machine Learning)
-使用Google Colab平台學習深度學習(deep Learning)
-使用Google Colab平台學習強化學習(reinforcement Learning)
-```
+
 # Google Colab
 ```
 https://colab.research.google.com/
