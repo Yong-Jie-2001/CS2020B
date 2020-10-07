@@ -5,10 +5,24 @@
     >* 字典(dict)資料及其運算  
     >*[自我練習]tuple資料及其運算  
     >*[自我練習]set資料及其運算 
- ```
+    
+```
  本課程規劃讓同學快速掌握python程式的開發技術
  還有更多技術及細節 請務必閱讀更多教材深入
+```
+
+```
+from queue import Queue
+q = Queue()
+q.put(1)
+q.put(2)
+q.put(3)
+q
+print(q.queue)
+
+q.get()
  ```
+ 
 ### 快速入門 
 ```
 數值(Numeric)資料及其運算
