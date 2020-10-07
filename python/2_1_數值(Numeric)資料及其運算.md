@@ -92,7 +92,10 @@ print ("6 - c = a >> 2的值為：", c)
 https://www.w3schools.com/python/python_ref_functions.asp
 ```
 ### 作業:完成十種函數的自我測試報告
-
+```
+x = abs(-36)
+x
+```
 ## 進位轉換
 ```
 x = bin(36)
