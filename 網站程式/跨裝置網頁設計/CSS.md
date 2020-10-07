@@ -36,4 +36,4 @@
 </html>
 ```
 
-![css_1](/pic/css_1.png)
+![css_1](./pic/css_1.png)
