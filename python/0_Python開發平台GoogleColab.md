@@ -63,7 +63,7 @@ print("PyTorch version: %s" %torch.__version__)
 print("2020年3月PyTorch version最新版本 是1.4 請參閱https://pytorch.org/")
 ```
 
-### 切換不同版本的Tensorflow
+### [略][2019年資料]切換不同版本的Tensorflow
 ```
 Google Colab預設使用版本:1.15.0[20200314]
 import tensorflow as tf
