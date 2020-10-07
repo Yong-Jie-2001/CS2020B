@@ -15,11 +15,15 @@ https://www.w3schools.com/python/python_arrays.asp
 # -*- coding: utf-8 -*-
 
 list1 = list() 
-list1 = [] 
-
+```
+```
 list2 = list([2, 3, 4])
-list2 = [2, 3, 4] 
+```
+```
 
+list2 = [2, 3, 4] 
+```
+```
 list3 = list(["red", "green", "blue"]) 
 list4 = list(range(3, 6))
 list5 = list("abcd") 
@@ -51,7 +55,6 @@ sum(list1)
 
 list1 = [21, 33, 14, 12, 32,98]
 len(list1)
-
 ```
 ## List的各種運算(2)串列的加法|乘法運算
 
@@ -100,7 +103,6 @@ in the context of the for and if clauses which follow it.
 https://en.wikipedia.org/wiki/List_comprehension
 ```
 ```
-
 list1 = [x for x in range(0,5)] 
 list1
 
@@ -109,7 +111,6 @@ list2
 
 list3 = [x for x in list2 if x <= 1.5]
 list3
-
 ```
 
 ### List comprehension列表推導式的應用
