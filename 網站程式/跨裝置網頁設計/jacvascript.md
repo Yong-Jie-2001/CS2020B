@@ -30,3 +30,28 @@
 </html>
 
 ```
+```
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>流程控制範例</title>
+    
+    <________ language="javascript">
+  var X = __________("請輸入正整數", "");
+  var Total = 0;
+  for (var ____; ________; _______)
+  {
+    Total = Total + i;			//這行敘述也可以改寫為Total += i;
+  }
+  _________(Total);
+
+    </________>
+    
+  </head>
+  
+  <body>
+  </body>
+</html>
+
+```
