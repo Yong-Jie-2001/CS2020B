@@ -18,7 +18,7 @@ Google Colab的Python開發環境暨使用技術
 [10]載入你的google drive 到colab
 
 ```
-### Numpy實戰 使用Google Colab學習Python與人工智慧
+### 使用Google Colab學習Python與人工智慧
 ```
 使用Google Colab平台學習Python程式設計
 使用Google Colab平台學習Python資料分析技術
