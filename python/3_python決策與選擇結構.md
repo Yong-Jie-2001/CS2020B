@@ -18,9 +18,21 @@
 Python 程式碼縮排
 Python 語言以冒號「:」及縮排來表示程式區塊
 縮排為 1 個 Tab 鍵或 4 個空白鍵
-PS: Python沒有switch
-
 https://www.w3schools.com/python/python_conditions.asp
+```
+## Python沒有switch
+```
+switch(變數名稱或運算式) {
+    case 符合數字或字元:
+        陳述句一;
+        break;
+    case 符合數字或字元:
+        陳述句二;
+        break;
+    default:
+        陳述三;
+        break;
+}
 ```
 # [1]if
 ```
